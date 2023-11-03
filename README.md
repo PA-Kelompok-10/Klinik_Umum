@@ -1,4 +1,9 @@
-<h1>PROYEK AKHIR PEMROGRAMAN BERORIENTASI OBJEK</h1>
+<h1>PROJEK AKHIR PEMROGRAMAN BERORIENTASI OBJEK</h1>
+
+<h2>KELOMPOK 10</h2>
+Anggota Kelompok:
+1. Adinda Apriliani (2209116024)
+2. Muhammad Irfan Maulana (2209116036)
 
 <h2>Nama Project</h2>
 Pengelolaan Data Pasien Klinik Umum Asterix
@@ -8,11 +13,13 @@ Tema kami yaitu Pengelolaan Data Pasien Klinik Umum Asterix. Sistem ini dibuat d
 
 
 <h2>Flowchart</h2>
+
 ![quicksort-FLOWCHART KEL 10](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/95974a26-43da-4476-94c3-e6e19cf78eb5)
 
 
 
 <h2>ERD</h2>
+
 <img width="532" alt="image" src="https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/a2a929d8-9295-4398-a7c0-eb200aec3f2f">
 
 
