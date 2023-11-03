@@ -24,6 +24,7 @@ Tema kami yaitu Pengelolaan Data Pasien Klinik Umum Asterix. Sistem ini dibuat d
 
 
 <h2>Hierarki Kelas</h2>
+
 ![quicksort-Hierarki Kelas](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/ec1125ee-5357-4f70-88e5-83c838952add)
 
 
