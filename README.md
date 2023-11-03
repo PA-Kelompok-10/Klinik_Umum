@@ -2,7 +2,7 @@
 
 <h2>KELOMPOK 10</h2>
 Anggota Kelompok:
-1. Adinda Apriliani (2209116024)
+1. Adinda Apriliani (2209116024) </br>
 2. Muhammad Irfan Maulana (2209116036)
 
 <h2>Nama Project</h2>
