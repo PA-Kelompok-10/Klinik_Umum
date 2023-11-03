@@ -116,12 +116,31 @@ tampilan login sebagai admin
 Tampilan dashboard
 
 ![Gambar WhatsApp 2023-11-03 pukul 23 37 00_548cd927](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/c72926ee-f8f1-47e8-b43c-cb8e6f74a521)
+
+Tampilan create
+
 ![Gambar WhatsApp 2023-11-03 pukul 23 37 30_32ce051e](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/51641efb-18bd-4b0d-a4e5-f2a1fbfe50ce)
+
 ![Gambar WhatsApp 2023-11-03 pukul 23 37 46_6bba4bcf](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/08141599-69d9-434a-ba76-ddbc3956dc4f)
+
+Read Data
+
 ![Gambar WhatsApp 2023-11-03 pukul 23 38 06_dbb3b119](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/8a3f9274-1ea2-4a57-8793-fcace1058acd)
 ![Gambar WhatsApp 2023-11-03 pukul 23 38 25_66af3334](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/8a0c7db6-9d0a-4180-b7a0-47820bb61a97)
+
+Update Data pasien
+
 ![Gambar WhatsApp 2023-11-03 pukul 23 39 51_0e0c5252](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/499659bf-6b01-478e-8a54-ced03f97cb7f)
+
+![WhatsApp Image 2023-11-04 at 04 19 04_eaf0ec65](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/121864328/0803b9b6-2ba1-483f-9ba4-27717ae06f13)
+
+GUI Login Dokter
+
+Create data kunjungan
+
 ![Gambar WhatsApp 2023-11-03 pukul 23 41 55_f990d32e](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/2bbca59e-e66c-4fd5-be7b-2eb2e9a9deb6)
+
+Dashboard admin
 
 
 
