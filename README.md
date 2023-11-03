@@ -2,8 +2,8 @@
 
 <h2>KELOMPOK 10</h2>
 Anggota Kelompok:
-1. Adinda Apriliani (2209116024) </br>
-2. Muhammad Irfan Maulana (2209116036)
+</br> 1. Adinda Apriliani (2209116024) </br>
+</br> 2. Muhammad Irfan Maulana (2209116036) </br>
 
 <h2>Nama Project</h2>
 Pengelolaan Data Pasien Klinik Umum Asterix
