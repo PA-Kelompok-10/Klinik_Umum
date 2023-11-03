@@ -1,7 +1,7 @@
 <h1>PROJEK AKHIR PEMROGRAMAN BERORIENTASI OBJEK</h1>
 
 <h2>KELOMPOK 10</h2>
-Anggota Kelompok:
+</br> Anggota Kelompok: </br>
 </br> 1. Adinda Apriliani (2209116024) </br>
 </br> 2. Muhammad Irfan Maulana (2209116036) </br>
 
