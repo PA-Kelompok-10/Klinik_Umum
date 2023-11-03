@@ -8,12 +8,16 @@ Tema kami yaitu Pengelolaan Data Pasien Klinik Umum Asterix. Sistem ini dibuat d
 
 
 <h2>Flowchart</h2>
+![quicksort-FLOWCHART KEL 10](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/95974a26-43da-4476-94c3-e6e19cf78eb5)
+
 
 
 <h2>ERD</h2>
 <img width="532" alt="image" src="https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/a2a929d8-9295-4398-a7c0-eb200aec3f2f">
 
+
 <h2>Hierarki Kelas</h2>
+![quicksort-Hierarki Kelas](https://github.com/PA-Kelompok-10/Klinik_Umum/assets/122151428/ec1125ee-5357-4f70-88e5-83c838952add)
 
 
 <h2>SCREENSHOOT CODINGAN BESERTA PENJELASAN</h2>
